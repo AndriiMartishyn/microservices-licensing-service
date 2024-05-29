@@ -1,10 +1,10 @@
-package com.martishyn.licensing;
+package com.martishyn.configserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LicensingServiceApplicationTests {
+class ConfigServerApplicationTests {
 
     @Test
     void contextLoads() {
